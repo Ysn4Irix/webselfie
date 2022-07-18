@@ -1,0 +1,26 @@
+{
+  "name": "express-api",
+  "description": "a express api generator",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ysn4Irix",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "latest",
+    "express": "latest",
+    "helmet": "latest",
+    "http-errors": "latest",
+    "joi": "^17.6.0",
+    "morgan": "latest",
+    "puppeteer": "^15.4.0",
+    "response-time": "latest"
+  }
+}
