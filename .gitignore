@@ -5,6 +5,7 @@ server/package-lock.json
 ### Node template
 # Logs
 client/logs
+client/.vercel
 client/*.log
 client/npm-debug.log*
 client/yarn-debug.log*

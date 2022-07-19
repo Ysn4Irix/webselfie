@@ -9,9 +9,11 @@
 </p>
 
 <p align="center">
-  <img width="150px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1658183205/yassi/muiowmxyaqjatupddvma.svg" align="center" alt="gdrive" />
+  <img width="150px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1658183205/yassi/muiowmxyaqjatupddvma.svg" align="center" alt="nuxt" />
   &nbsp; &nbsp; &nbsp;
-  <img width="150px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1658183164/yassi/mgkhs4y9ydmoyjyozulf.svg" align="center" alt="gdrive" />
+  <img width="150px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1658183164/yassi/mgkhs4y9ydmoyjyozulf.svg" align="center" alt="nodejs" />
+   &nbsp; &nbsp; &nbsp;
+  <img width="150px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1658186314/yassi/ljsjoq8zilzkjpd1bwuo.svg" align="center" alt="chakraui" />
   <br>
 </p>
 
