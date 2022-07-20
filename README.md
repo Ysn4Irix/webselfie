@@ -34,6 +34,9 @@
 
 <b>Server:</b> Backend build with nodejs
 
+- FrontEnd deployed to [Vercel](https://vercel.com) visit the preview [Here](https://webselfie.vercel.app)
+- Backend deployed to [Heroku](https://heroku.com)
+
 Click on the website logo to turn on dark mode
 
 ## ❯ About
